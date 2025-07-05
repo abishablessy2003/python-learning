@@ -1,0 +1,6 @@
+a=("every")
+b=("thing")
+c=("will be")
+d=("ok")
+e=(a+b+C+d)
+print(e)
